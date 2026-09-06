@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Guts Kernel by @Zaahen7
+kernel.string=GutsKernel by @Zaahen7
 do.devicecheck=0
 do.modules=0
 do.systemless=0
