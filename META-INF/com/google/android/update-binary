@@ -546,28 +546,28 @@ fi;
 
 # art
 ui_print " ";
-ui_print '         _  _  _  _  _        '
-ui_print '        /|   \/ \//  |\       '
-ui_print '      / /    \   /    \ \     '
-ui_print '    /  /      | |      \  \   '
-ui_print '   \   \      | |      /   /  '
-ui_print '     \   \    | |    /   /    '
-ui_print '       \   \  | |  /   /      '
-ui_print '         \   \| |/   /        '
-ui_print '        /    _   _    \       '
-ui_print '      /   /   | |   \   \     '
-ui_print '    /   /     | |     \   \   '
-ui_print '   /   /      | |      \   \  '
-ui_print '    \   \     | |     /   /   '
-ui_print '      \   \   | |   /   /     '
-ui_print '        \   \_| |_/   /       '
-ui_print '          \         /         ' 
-ui_print '            \ ___ /           ' 
+ui_print '.        _  _  _  _  _        '
+ui_print '.       /|   \/ \//  |\       '
+ui_print '.     / /    \   /    \ \     '
+ui_print '.   /  /      | |      \  \   '
+ui_print '.  \   \      | |      /   /  '
+ui_print '.    \   \    | |    /   /    '
+ui_print '.      \   \  | |  /   /      '
+ui_print '.        \   \| |/   /        '
+ui_print '.       /    _   _    \       '
+ui_print '.     /   /   | |   \   \     '
+ui_print '.   /   /     | |     \   \   '
+ui_print '.  /   /      | |      \   \  '
+ui_print '.   \   \     | |     /   /   '
+ui_print '.     \   \   | |   /   /     '
+ui_print '.       \   \_| |_/   /       '
+ui_print '.         \         /         ' 
+ui_print '.           \ ___ /           ' 
 ui_print " "
-ui_print "      G U T S  K E R N E L"
+ui_print ".     G U T S  K E R N E L"
 ui_print " "
-ui_print "      SM-A356E • Oneui Zaahen7"
-ui_print "            7nehaaZ"
+ui_print ".     SM-A356E • Oneui Zaahen7"
+ui_print ".           7nehaaZ"
 ui_print " "
 ui_print " "
 ui_print " "
