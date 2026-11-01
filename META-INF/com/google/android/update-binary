@@ -566,8 +566,15 @@ ui_print '.           \ ___ /           '
 ui_print " "
 ui_print ".     G U T S  K E R N E L"
 ui_print " "
-ui_print ".     SM-A356E • Oneui Zaahen7"
-ui_print ".           7nehaaZ"
+
+# Kernel Info
+if [ -f "$AKHOME/kernel-info.txt" ]; then
+    while IFS= read -r line || [ -n "$line" ]; do
+        ui_print "$line"
+    done < "$AKHOME/kernel-info.txt"
+else
+    ui_print "Kernel information not available."
+fi
 ui_print " "
 ui_print " "
 ui_print " "
